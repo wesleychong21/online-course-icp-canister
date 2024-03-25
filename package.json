@@ -1,5 +1,5 @@
 {
-  "name": "dfinity_project",
+  "name": "online_course",
   "main": "index.js",
   "dependencies": {
     "@dfinity/agent": "^0.19.2",
