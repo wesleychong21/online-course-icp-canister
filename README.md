@@ -7,9 +7,10 @@ This repository is a submission for the [TypeScript Smart Contract 101](https://
 This project is a canister implementation for the Internet Computer Protocol (ICP), designed to create Learn Management System (LMS) such as udemy. 
 It allows users to list , add, edit and delete for below objects:
 1. course
-2. instructor
-3. student
-4. enroll course
+2. admin
+3. instructor
+4. student
+5. enroll course
 
 ### Roles and functionalities
 
@@ -28,7 +29,7 @@ The canister is designed with a multi-role LMS to facilitate various operations 
 #### Visitor
 
 - **List Courses**: Visitor can list Courses.
-- **Enroll Course**: Visitor can enroll course.
+- **Enroll Course**: Visitor can enroll course and become student.
 
 ## Getting started
 
